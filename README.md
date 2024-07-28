@@ -1,2 +1,11 @@
 # Amazon-Clone-8055
-This clone is made by HTML and CSS only.
+
+## Description
+A basic Amazon clone website for browsing and purchasing products.
+
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/amazon-clone.git`
+2. Open `index.html` in your browser.
+
+## Usage
+Navigate the website to browse products, add items to the cart, and proceed to checkout.
